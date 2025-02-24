@@ -1,0 +1,44 @@
+[
+    {
+        "name": "SHEIN Baby Boy Plaid Print Lapel Neck Blazer & Pants",
+        "description": "A stylish plaid print blazer and pants set for baby boys, perfect for formal occasions.",
+        "quantity": 50,
+        "price": 2799,
+        "image_url": "https://alayajunior.com/path/to/product-image1.jpg"
+    },
+    {
+        "name": "SHEIN Baby Girl Ruffle Trim Tee & Bow Front Skirt",
+        "description": "A chic ensemble featuring a ribbed long-sleeve top with ruffled shoulders and a bow-front skirt.",
+        "quantity": 60,
+        "price": 2499,
+        "image_url": "https://alayajunior.com/path/to/product-image2.jpg"
+    },
+    {
+        "name": "Furry Baby Winter Swaddle",
+        "description": "A cozy winter swaddle made from soft sherpa fleece, designed to keep babies warm during colder months.",
+        "quantity": 40,
+        "price": 2599,
+        "image_url": "https://alayajunior.com/path/to/product-image3.jpg"
+    },
+    {
+        "name": "Juniors Winter Baby Rompers Pack of 2 (Maroon Set)",
+        "description": "A set of two cozy rompers for babies, featuring maroon and gray designs with charming bear graphics.",
+        "quantity": 55,
+        "price": 1899,
+        "image_url": "https://alayajunior.com/path/to/product-image4.jpg"
+    },
+    {
+        "name": "Juniors Winter Baby Rompers Pack of 2 (Grey Set)",
+        "description": "A set of two cozy rompers for babies, featuring gray and white designs with playful animal patterns.",
+        "quantity": 65,
+        "price": 1899,
+        "image_url": "https://alayajunior.com/path/to/product-image5.jpg"
+    },
+    {
+        "name": "Baby Lining Winter Swaddle",
+        "description": "A warm and comfortable winter swaddle designed to keep babies snug during chilly days.",
+        "quantity": 45,
+        "price": 2099,
+        "image_url": "https://alayajunior.com/path/to/product-image6.jpg"
+    }
+]

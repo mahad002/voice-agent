@@ -1,0 +1,12 @@
+[
+    {
+        "name": "John Doe",
+        "position": "Manager",
+        "availability": ["10:00 AM", "2:00 PM", "4:00 PM"]
+    },
+    {
+        "name": "Jane Smith",
+        "position": "Customer Support",
+        "availability": ["9:00 AM", "11:30 AM", "3:00 PM"]
+    }
+]

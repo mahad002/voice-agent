@@ -1,0 +1,7 @@
+openai
+requests
+pygame
+SpeechRecognition
+python-dotenv
+pyaudio
+deepgram-sdk==2.12.0

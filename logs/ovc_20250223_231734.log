@@ -1,0 +1,7 @@
+2025-02-23 23:17:35,136,ovc,INFO,Store Loaded,Alayajunior,
+2025-02-23 23:17:35,136,ovc,INFO,Products Loaded,6 products,
+2025-02-23 23:17:35,137,ovc,INFO,Staff Loaded,2 staff members,
+2025-02-23 23:17:35,137,ovc,INFO,Starting conversation...,,
+2025-02-23 23:17:35,137,ovc,INFO,Generating Speech,Welcome to Alayajunior! How may I assist you today?,
+2025-02-23 23:17:35,810,ovc,ERROR,TTS API Error,401,
+2025-02-23 23:17:35,810,ovc,INFO,Listening...,User speaking,

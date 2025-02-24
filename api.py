@@ -11,6 +11,7 @@ from difflib import get_close_matches
 import speech_recognition as sr
 import requests
 from deepgram import Deepgram
+# import sounddevice as sd
 
 app = Flask(__name__)
 

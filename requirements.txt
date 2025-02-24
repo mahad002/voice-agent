@@ -6,3 +6,4 @@ pygame
 SpeechRecognition
 python-dotenv
 deepgram-sdk
+flask-cors

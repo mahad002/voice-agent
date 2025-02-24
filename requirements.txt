@@ -1,7 +1,9 @@
-openai
-requests
-pygame
-SpeechRecognition
-python-dotenv
-pyaudio
+Flask==3.0.3
+gunicorn==22.0.0
+openai==1.35.3
+requests==2.32.3
+pygame==2.6.0
+SpeechRecognition==3.10.4
+python-dotenv==1.0.1
+pyaudio==0.2.14
 deepgram-sdk==2.12.0

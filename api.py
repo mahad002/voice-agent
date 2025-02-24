@@ -53,8 +53,9 @@ class CustomerServiceSystem:
         self.ELEVENLABS_API_KEY = os.getenv("ELEVENLABS_API_KEY")
         self.ELEVENLABS_VOICE_ID = os.getenv("ELEVENLABS_VOICE_ID")
 
-        # Initialize API clients
-        self.openai_client = openai.OpenAI(api_key=self.OPENAI_API_KEY)
+        openai.api_key = self.OPENAI_API_KEY
+        self.openai_client = openai
+
         self.deepgram = Deepgram(self.DEEPGRAM_API_KEY) if self.DEEPGRAM_API_KEY else None
 
         # Create directories

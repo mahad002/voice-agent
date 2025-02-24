@@ -5,5 +5,5 @@ requests==2.32.3
 pygame==2.6.0
 SpeechRecognition==3.10.4
 python-dotenv==1.0.1
-pyaudio==0.2.14
+https://files.pythonhosted.org/packages/82/d8/f9d7bdfa13529d16d2f0e8a8e349e2fee6d58e0e2baf90b3f58b05323788/PyAudio-0.2.14-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 deepgram-sdk==2.12.0

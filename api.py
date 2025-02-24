@@ -11,9 +11,12 @@ from difflib import get_close_matches
 import speech_recognition as sr
 import requests
 from deepgram import Deepgram
+from flask_cors import CORS
 # import sounddevice as sd
 
 app = Flask(__name__)
+
+CORS(app)
 
 # Setup Logger
 def make_logger(log_dir="logs", log_name="ovc", console_log=True):
